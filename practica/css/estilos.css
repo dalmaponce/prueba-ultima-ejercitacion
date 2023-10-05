@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(91, 238, 184);
+}
+
+.enlaces {
+    display: flex;
+    justify-content: center;
+}
+
+.titulo_inicio {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+ul {
+    list-style: none;
+}
