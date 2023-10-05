@@ -17,3 +17,16 @@ body {
 ul {
     list-style: none;
 }
+
+img {
+    width: 100%;
+}
+
+#logo {
+    width: 10%;
+    margin-left: 45%;
+}
+
+.tester {
+    width: 50%;
+}
